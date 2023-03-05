@@ -4,7 +4,7 @@ Steps to run the app<br>
 1. Install pipenv<br>
 pip install pipenv
 
-2. Create a .env file in the root folder<be>
+2. Create a .env file in the root folder<br>
 DATABASE = YOUR_MYSQL_DATABASE_NAME
 USER     = YOUR_USERNAME             # default is root
 PASSWORD = YOUR_MYSQL_PASSWORD
