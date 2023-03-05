@@ -1,11 +1,10 @@
 # meta-backend-capstone
 
-Steps to run the app
-1. Install pipenv
+Steps to run the app<br>
+1. Install pipenv<br>
 pip install pipenv
 
-2. Create a .env file in the root folder
-# .env
+2. Create a .env file in the root folder<be>
 DATABASE = YOUR_MYSQL_DATABASE_NAME
 USER     = YOUR_USERNAME             # default is root
 PASSWORD = YOUR_MYSQL_PASSWORD
