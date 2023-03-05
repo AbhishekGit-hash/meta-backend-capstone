@@ -12,17 +12,17 @@ PASSWORD = YOUR_MYSQL_PASSWORD
 HOST     = localhost                 # or 127.0.0.1
 PORT     = 3306
 
-3. Install dependencies
+3. Install dependencies <br>
 pipenv install
 
-4. Make migrations
+4. Make migrations <br>
 py manage.py makemigrations
 
-5. Migrate
+5. Migrate <br>
 py manage.py migrate
 
-6. Run the app
+6. Run the app <br>
 py manage.py runserver
 
-To run tests
+To run tests <br>
 py manage.py test tests
